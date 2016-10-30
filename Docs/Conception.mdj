@@ -4264,18 +4264,18 @@
 													"parentStyle": false,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 876,
-													"top": 355,
-													"width": 651,
+													"left": 890,
+													"top": 354,
+													"width": 614,
 													"height": 13,
 													"autoResize": false,
-													"alpha": -4.641082226259334,
-													"distance": 14.035668847618199,
+													"alpha": -4.390639025988167,
+													"distance": 15.811388300841896,
 													"hostEdge": {
 														"$ref": "AAAAAAFXrfLnVPX6bf0="
 													},
 													"edgePosition": 1,
-													"text": "5 : SM4 ConsulterEnTeteGestionContrat(idClient) :  Client, liste<Domaine> , liste<Contrat>,  liste<Souscription>",
+													"text": "5 : SM4 ConsulterEnTeteGestionContrat(idClient) :   liste<Domaine> , liste<Contrat>,  liste<Souscription>",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -5135,7 +5135,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFXrdObkkOZRV0="
 									},
-									"name": "SM4 ConsulterEnTeteGestionContrat(idClient) :  Client, liste<Domaine> , liste<Contrat>,  liste<Souscription>",
+									"name": "SM4 ConsulterEnTeteGestionContrat(idClient) :   liste<Domaine> , liste<Contrat>,  liste<Souscription>",
 									"source": {
 										"$ref": "AAAAAAFXrdXl+UQlCTc="
 									},
