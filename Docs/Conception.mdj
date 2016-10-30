@@ -4402,6 +4402,170 @@
 										},
 										{
 											"_type": "UMLSeqMessageView",
+											"_id": "AAAAAAFYFfYTpGTx3z4=",
+											"_parent": {
+												"$ref": "AAAAAAFXrdObk0OaIrk="
+											},
+											"model": {
+												"$ref": "AAAAAAFYFfYTpGTwftw="
+											},
+											"subViews": [
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAFYFfYTpWTyVbs=",
+													"_parent": {
+														"$ref": "AAAAAAFYFfYTpGTx3z4="
+													},
+													"model": {
+														"$ref": "AAAAAAFYFfYTpGTwftw="
+													},
+													"visible": true,
+													"enabled": true,
+													"lineColor": "#000000",
+													"fillColor": "#ffffff",
+													"fontColor": "#000000",
+													"font": "Arial;13;0",
+													"parentStyle": false,
+													"containerChangeable": false,
+													"containerExtending": true,
+													"left": 482,
+													"top": 437,
+													"width": 167,
+													"height": 13,
+													"autoResize": false,
+													"alpha": 1.5707963267948966,
+													"distance": 10,
+													"hostEdge": {
+														"$ref": "AAAAAAFYFfYTpGTx3z4="
+													},
+													"edgePosition": 1,
+													"text": "6 : Zoomer vue Entête Client",
+													"horizontalAlignment": 2,
+													"verticalAlignment": 5
+												},
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAFYFfYTpWTz2jM=",
+													"_parent": {
+														"$ref": "AAAAAAFYFfYTpGTx3z4="
+													},
+													"model": {
+														"$ref": "AAAAAAFYFfYTpGTwftw="
+													},
+													"visible": false,
+													"enabled": true,
+													"lineColor": "#000000",
+													"fillColor": "#ffffff",
+													"fontColor": "#000000",
+													"font": "Arial;13;0",
+													"parentStyle": false,
+													"containerChangeable": false,
+													"containerExtending": true,
+													"left": 565,
+													"top": 422,
+													"width": 0,
+													"height": 13,
+													"autoResize": false,
+													"alpha": 1.5707963267948966,
+													"distance": 25,
+													"hostEdge": {
+														"$ref": "AAAAAAFYFfYTpGTx3z4="
+													},
+													"edgePosition": 1,
+													"horizontalAlignment": 2,
+													"verticalAlignment": 5
+												},
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAFYFfYTpWT0DLg=",
+													"_parent": {
+														"$ref": "AAAAAAFYFfYTpGTx3z4="
+													},
+													"model": {
+														"$ref": "AAAAAAFYFfYTpGTwftw="
+													},
+													"visible": false,
+													"enabled": true,
+													"lineColor": "#000000",
+													"fillColor": "#ffffff",
+													"fontColor": "#000000",
+													"font": "Arial;13;0",
+													"parentStyle": false,
+													"containerChangeable": false,
+													"containerExtending": true,
+													"left": 565,
+													"top": 457,
+													"width": 0,
+													"height": 13,
+													"autoResize": false,
+													"alpha": -1.5707963267948966,
+													"distance": 10,
+													"hostEdge": {
+														"$ref": "AAAAAAFYFfYTpGTx3z4="
+													},
+													"edgePosition": 1,
+													"horizontalAlignment": 2,
+													"verticalAlignment": 5
+												},
+												{
+													"_type": "UMLActivationView",
+													"_id": "AAAAAAFYFfYTpmT1UkQ=",
+													"_parent": {
+														"$ref": "AAAAAAFYFfYTpGTx3z4="
+													},
+													"model": {
+														"$ref": "AAAAAAFYFfYTpGTwftw="
+													},
+													"visible": true,
+													"enabled": true,
+													"lineColor": "#000000",
+													"fillColor": "#ffffff",
+													"fontColor": "#000000",
+													"font": "Arial;13;0",
+													"parentStyle": false,
+													"containerChangeable": false,
+													"containerExtending": true,
+													"left": 853.5,
+													"top": 453,
+													"width": 14,
+													"height": 29,
+													"autoResize": false
+												}
+											],
+											"visible": true,
+											"enabled": true,
+											"lineColor": "#000000",
+											"fillColor": "#ffffff",
+											"fontColor": "#000000",
+											"font": "Arial;13;0",
+											"parentStyle": false,
+											"containerChangeable": false,
+											"containerExtending": true,
+											"head": {
+												"$ref": "AAAAAAFXrdXl+kQs/co="
+											},
+											"tail": {
+												"$ref": "AAAAAAFXrdY5Y0RNseA="
+											},
+											"lineStyle": 0,
+											"points": "276.5:453;853.5:453",
+											"nameLabel": {
+												"$ref": "AAAAAAFYFfYTpWTyVbs="
+											},
+											"stereotypeLabel": {
+												"$ref": "AAAAAAFYFfYTpWTz2jM="
+											},
+											"propertyLabel": {
+												"$ref": "AAAAAAFYFfYTpWT0DLg="
+											},
+											"activation": {
+												"$ref": "AAAAAAFYFfYTpmT1UkQ="
+											},
+											"showProperty": true,
+											"showType": true
+										},
+										{
+											"_type": "UMLSeqMessageView",
 											"_id": "AAAAAAFXrdjekET/b7o=",
 											"_parent": {
 												"$ref": "AAAAAAFXrdObk0OaIrk="
@@ -4428,9 +4592,9 @@
 													"parentStyle": false,
 													"containerChangeable": false,
 													"containerExtending": true,
-													"left": 470,
-													"top": 455,
-													"width": 172,
+													"left": 469,
+													"top": 483,
+													"width": 174,
 													"height": 13,
 													"autoResize": false,
 													"alpha": -3.9795744310846457,
@@ -4439,7 +4603,7 @@
 														"$ref": "AAAAAAFXrdjekET/b7o="
 													},
 													"edgePosition": 1,
-													"text": "6 : Zoomer vue Gestion client",
+													"text": "7 : Zoomer vue Gestion Client",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -4462,7 +4626,7 @@
 													"containerChangeable": false,
 													"containerExtending": true,
 													"left": 565,
-													"top": 441,
+													"top": 469,
 													"width": 0,
 													"height": 13,
 													"autoResize": false,
@@ -4494,7 +4658,7 @@
 													"containerChangeable": false,
 													"containerExtending": true,
 													"left": 565,
-													"top": 476,
+													"top": 504,
 													"width": 0,
 													"height": 13,
 													"autoResize": false,
@@ -4526,7 +4690,7 @@
 													"containerChangeable": false,
 													"containerExtending": true,
 													"left": 853.5,
-													"top": 472,
+													"top": 500,
 													"width": 14,
 													"height": 29,
 													"autoResize": false
@@ -4548,7 +4712,7 @@
 												"$ref": "AAAAAAFXrdY5Y0RNseA="
 											},
 											"lineStyle": 0,
-											"points": "276.5:472;853.5:472",
+											"points": "276.5:500;853.5:500",
 											"nameLabel": {
 												"$ref": "AAAAAAFXrdjekEUAVmA="
 											},
@@ -4593,7 +4757,7 @@
 													"containerChangeable": false,
 													"containerExtending": true,
 													"left": 470,
-													"top": 503,
+													"top": 527,
 													"width": 186,
 													"height": 13,
 													"autoResize": false,
@@ -4603,7 +4767,7 @@
 														"$ref": "AAAAAAFXrdkIUUUqA6g="
 													},
 													"edgePosition": 1,
-													"text": "7 : Zoomer vue Gestion Contact",
+													"text": "8 : Zoomer vue Gestion Contact",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -4626,7 +4790,7 @@
 													"containerChangeable": false,
 													"containerExtending": true,
 													"left": 565,
-													"top": 489,
+													"top": 513,
 													"width": 0,
 													"height": 13,
 													"autoResize": false,
@@ -4658,7 +4822,7 @@
 													"containerChangeable": false,
 													"containerExtending": true,
 													"left": 565,
-													"top": 524,
+													"top": 548,
 													"width": 0,
 													"height": 13,
 													"autoResize": false,
@@ -4690,7 +4854,7 @@
 													"containerChangeable": false,
 													"containerExtending": true,
 													"left": 853.5,
-													"top": 520,
+													"top": 544,
 													"width": 14,
 													"height": 29,
 													"autoResize": false
@@ -4712,7 +4876,7 @@
 												"$ref": "AAAAAAFXrdY5Y0RNseA="
 											},
 											"lineStyle": 0,
-											"points": "276.5:520;853.5:520",
+											"points": "276.5:544;853.5:544",
 											"nameLabel": {
 												"$ref": "AAAAAAFXrdkIUUUr7Q0="
 											},
@@ -4757,7 +4921,7 @@
 													"containerChangeable": false,
 													"containerExtending": false,
 													"left": 474,
-													"top": 552,
+													"top": 568,
 													"width": 183,
 													"height": 13,
 													"autoResize": false,
@@ -4767,7 +4931,7 @@
 														"$ref": "AAAAAAFXre3tXPVyQBs="
 													},
 													"edgePosition": 1,
-													"text": "8 : Zoomer vue Gestion Contrat",
+													"text": "9 : Zoomer vue Gestion Contrat",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -4790,7 +4954,7 @@
 													"containerChangeable": false,
 													"containerExtending": false,
 													"left": 565,
-													"top": 537,
+													"top": 553,
 													"width": 0,
 													"height": 13,
 													"autoResize": false,
@@ -4822,7 +4986,7 @@
 													"containerChangeable": false,
 													"containerExtending": false,
 													"left": 565,
-													"top": 572,
+													"top": 588,
 													"width": 0,
 													"height": 13,
 													"autoResize": false,
@@ -4854,7 +5018,7 @@
 													"containerChangeable": false,
 													"containerExtending": false,
 													"left": 853.5,
-													"top": 568,
+													"top": 584,
 													"width": 14,
 													"height": 29,
 													"autoResize": false
@@ -4876,7 +5040,7 @@
 												"$ref": "AAAAAAFXrdY5Y0RNseA="
 											},
 											"lineStyle": 0,
-											"points": "276.5:568;853.5:568",
+											"points": "276.5:584;853.5:584",
 											"nameLabel": {
 												"$ref": "AAAAAAFXre3tXPVzDGY="
 											},
@@ -4983,11 +5147,27 @@
 								},
 								{
 									"_type": "UMLMessage",
+									"_id": "AAAAAAFYFfYTpGTwftw=",
+									"_parent": {
+										"$ref": "AAAAAAFXrdObkkOZRV0="
+									},
+									"name": "Zoomer vue Entête Client",
+									"source": {
+										"$ref": "AAAAAAFXrdY5Y0RGU3g="
+									},
+									"target": {
+										"$ref": "AAAAAAFXrdXl+UQlCTc="
+									},
+									"visibility": "public",
+									"messageSort": "synchCall"
+								},
+								{
+									"_type": "UMLMessage",
 									"_id": "AAAAAAFXrdjekET+TsA=",
 									"_parent": {
 										"$ref": "AAAAAAFXrdObkkOZRV0="
 									},
-									"name": "Zoomer vue Gestion client",
+									"name": "Zoomer vue Gestion Client",
 									"source": {
 										"$ref": "AAAAAAFXrdY5Y0RGU3g="
 									},
