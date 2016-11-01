@@ -89330,9 +89330,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 276,
+											"left": 318,
 											"top": 88,
-											"width": 394,
+											"width": 311,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -89342,7 +89342,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "1 : Consulter la fenêtre de visualisation des souscriptions de contrat",
+											"text": "1 : consulterFenetreVisualisationSouscriptionsContrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -89497,9 +89497,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 1143,
+											"left": 1144,
 											"top": 96,
-											"width": 260,
+											"width": 259,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -89509,7 +89509,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "2 : SM4.1 : RechercheClient(idClient) : Client",
+											"text": "2 : SM4.1 : rechercherClient(idClient) : Client",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -89664,9 +89664,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 1870,
+											"left": 1871,
 											"top": 112,
-											"width": 270,
+											"width": 269,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -89676,7 +89676,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "3 : SOM4.1 : RechercheClient(idClient) : Client",
+											"text": "3 : SOM4.1 : rechercherClient(idClient) : Client",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -89831,9 +89831,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 1123,
+											"left": 1124,
 											"top": 144,
-											"width": 300,
+											"width": 299,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -89843,7 +89843,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "4 : SM4.2 : RechercheDomaines() : liste<Domaine>",
+											"text": "4 : SM4.2 : rechercherDomaines() : liste<Domaine>",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -90000,7 +90000,7 @@
 											"containerExtending": false,
 											"left": 2116,
 											"top": 166,
-											"width": 303,
+											"width": 302,
 											"height": 13,
 											"autoResize": false,
 											"alpha": -3.648691393831287,
@@ -90010,7 +90010,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "5 : SOM4.2 : RechercheDomaine() : liste<Domaine>",
+											"text": "5 : SOM4.2 : rechercherDomaine() : liste<Domaine>",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -90165,9 +90165,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 405,
+											"left": 416,
 											"top": 192,
-											"width": 145,
+											"width": 123,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.1902890876138634,
@@ -90177,7 +90177,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "6 : Consulter un domaine",
+											"text": "6 : consulterDomaine",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -90334,7 +90334,7 @@
 											"containerExtending": false,
 											"left": 981,
 											"top": 216,
-											"width": 585,
+											"width": 584,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -90344,7 +90344,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "7 : SM4.3 : RechercheSouscriptionContrat(idClient, idDomaine) : liste <SouscriptionContrat, Contrat>",
+											"text": "7 : SM4.3 : rechercherSouscriptionContrat(idClient, idDomaine) : liste <SouscriptionContrat, Contrat>",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -90501,7 +90501,7 @@
 											"containerExtending": false,
 											"left": 1992,
 											"top": 232,
-											"width": 587,
+											"width": 586,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -90511,7 +90511,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "8 : SOM4.3: RechercheSouscriptionContrat(idClient, idDomaine) : liste<SouscriptionContrat, Contrat>",
+											"text": "8 : SOM4.3: rechercherSouscriptionContrat(idClient, idDomaine) : liste<SouscriptionContrat, Contrat>",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -90666,9 +90666,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 363,
+											"left": 380,
 											"top": 304,
-											"width": 221,
+											"width": 186,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -90678,7 +90678,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "9 : Consulter  une souscription contrat",
+											"text": "9 : consulterSouscriptionContrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -90833,9 +90833,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 862,
+											"left": 863,
 											"top": 328,
-											"width": 822,
+											"width": 820,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -90845,7 +90845,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "10 : SM4.4 : ConsulterSouscriptionContrat(idSouscriptionContrat) : Contrat, SouscriptionContrat, Agent, liste<Option>, liste<OptionSouscrite>",
+											"text": "10 : SM4.4 : consulterSouscriptionContrat(idSouscriptionContrat) : Contrat, SouscriptionContrat, Agent, liste<Option>, liste<OptionSouscrite>",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -91000,9 +91000,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 2097,
+											"left": 2098,
 											"top": 336,
-											"width": 376,
+											"width": 375,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -91012,7 +91012,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "11 : SOM4.4 : RechercheContrat(idSouscriptionContrat) : Contrat",
+											"text": "11 : SOM4.4 : rechercherContrat(idSouscriptionContrat) : Contrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -91167,9 +91167,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 2025,
+											"left": 2026,
 											"top": 372,
-											"width": 520,
+											"width": 519,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -91179,7 +91179,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "12 : SOM4.5 : RechercheSouscriptionContrat(idSouscriptionContrat) : SouscriptionContrat",
+											"text": "12 : SOM4.5 : rechercherSouscriptionContrat(idSouscriptionContrat) : SouscriptionContrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -91336,7 +91336,7 @@
 											"containerExtending": false,
 											"left": 2045,
 											"top": 416,
-											"width": 481,
+											"width": 480,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -91346,7 +91346,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "13 : SOM4.6 : RechercheOptionsSouscrites(idSouscriptionContrat) : liste <Option>",
+											"text": "13 : SOM4.6 : rechercherOptionsSouscrites(idSouscriptionContrat) : liste <Option>",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -91503,7 +91503,7 @@
 											"containerExtending": false,
 											"left": 2112,
 											"top": 456,
-											"width": 347,
+											"width": 346,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -91513,7 +91513,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "14 : SOM4.7 : RechercheOptions(idContrat) : liste<Contrat>",
+											"text": "14 : SOM4.7 : rechercherOptions(idContrat) : liste<Contrat>",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -91668,9 +91668,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 2331,
+											"left": 2332,
 											"top": 496,
-											"width": 280,
+											"width": 279,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -91680,7 +91680,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "15 : SOM4.8 : RechercheAgent(idAgent) : Agent",
+											"text": "15 : SOM4.8 : rechercherAgent(idAgent) : Agent",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -91837,7 +91837,7 @@
 											"containerExtending": false,
 											"left": 2116,
 											"top": 560,
-											"width": 339,
+											"width": 338,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -91847,7 +91847,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "16 : SOM4.9: RechercheOptions(idContrat) : liste<Option>",
+											"text": "16 : SOM4.9: rechercherOptions(idContrat) : liste<Option>",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -92596,9 +92596,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 339,
+											"left": 379,
 											"top": 632,
-											"width": 268,
+											"width": 188,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -92608,7 +92608,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "17 : Faire une nouvelle souscription de contrat",
+											"text": "17 : nouvelleSouscriptionContrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -92765,7 +92765,7 @@
 											"containerExtending": false,
 											"left": 1052,
 											"top": 648,
-											"width": 443,
+											"width": 442,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -92775,7 +92775,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "18 : SM4.5 : RechercheContrats(idDomaine) : liste<Contrat, liste<Options>>",
+											"text": "18 : SM4.5 : rechercherContrats(idDomaine) : liste<Contrat, liste<Options>>",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -92930,9 +92930,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 2055,
+											"left": 2056,
 											"top": 667,
-											"width": 460,
+											"width": 459,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -92942,7 +92942,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "19 : SOM4.10 : RechercheContrats(idDomaine) : liste<Contrat, liste<Options>>",
+											"text": "19 : SOM4.10 : rechercherContrats(idDomaine) : liste<Contrat, liste<Options>>",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -93097,9 +93097,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 342,
+											"left": 351,
 											"top": 688,
-											"width": 263,
+											"width": 245,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -93109,7 +93109,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "20 : Valider nouvelle souscription d'un contrat",
+											"text": "20 : validationNouvelleSouscriptionContrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -93264,9 +93264,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 738,
+											"left": 739,
 											"top": 702,
-											"width": 1064,
+											"width": 1062,
 											"height": 13,
 											"autoResize": false,
 											"alpha": -4.446137777387806,
@@ -93276,7 +93276,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "21 : SM4.6 : SouscriptionContrat(idClient,  idContrat,  idAgent, dateSouscription, periodicite, liste<Option>) : SouscriptionContrat, Agent, liste<Option>, liste<OptionSouscrite>, Contrat",
+											"text": "21 : SM4.6 : souscriptionContrat(idClient,  idContrat,  idAgent, dateSouscription, periodicite, liste<Option>) : SouscriptionContrat, Agent, liste<Option>, liste<OptionSouscrite>, Contrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -93431,9 +93431,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 1904,
+											"left": 1905,
 											"top": 720,
-											"width": 762,
+											"width": 760,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -93443,7 +93443,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "22 : SOM4.11 : SouscriptionContrat(idClient,  idContrat,  idAgent, dateSouscription, periodicite, liste<Option>) : SouscriptionContrat",
+											"text": "22 : SOM4.11 : souscriptionContrat(idClient,  idContrat,  idAgent, dateSouscription, periodicite, liste<Option>) : SouscriptionContrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -93598,9 +93598,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 2097,
+											"left": 2098,
 											"top": 760,
-											"width": 376,
+											"width": 375,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -93610,7 +93610,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "23 : SOM4.4 : RechercheContrat(idSouscriptionContrat) : Contrat",
+											"text": "23 : SOM4.4 : rechercherContrat(idSouscriptionContrat) : Contrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -93767,7 +93767,7 @@
 											"containerExtending": false,
 											"left": 2045,
 											"top": 797,
-											"width": 481,
+											"width": 480,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -93777,7 +93777,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "24 : SOM4.6 : RechercheOptionsSouscrites(idSouscriptionContrat) : liste <Option>",
+											"text": "24 : SOM4.6 : rechercherOptionsSouscrites(idSouscriptionContrat) : liste <Option>",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -93934,7 +93934,7 @@
 											"containerExtending": false,
 											"left": 2112,
 											"top": 839,
-											"width": 347,
+											"width": 346,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -93944,7 +93944,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "25 : SOM4.7 : RechercheOptions(idContrat) : liste<Contrat>",
+											"text": "25 : SOM4.7 : rechercherOptions(idContrat) : liste<Contrat>",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -94099,9 +94099,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 2331,
+											"left": 2332,
 											"top": 880,
-											"width": 280,
+											"width": 279,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -94111,7 +94111,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "26 : SOM4.8 : RechercheAgent(idAgent) : Agent",
+											"text": "26 : SOM4.8 : rechercherAgent(idAgent) : Agent",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -94268,7 +94268,7 @@
 											"containerExtending": false,
 											"left": 2116,
 											"top": 929,
-											"width": 339,
+											"width": 338,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -94278,7 +94278,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "27 : SOM4.9: RechercheOptions(idContrat) : liste<Option>",
+											"text": "27 : SOM4.9: rechercherOptions(idContrat) : liste<Option>",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -94433,9 +94433,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 376,
+											"left": 380,
 											"top": 968,
-											"width": 194,
+											"width": 186,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -94445,7 +94445,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "28 : Modifier Souscription Contrat",
+											"text": "28 : modifierSouscriptionContrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -94600,9 +94600,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 413,
+											"left": 415,
 											"top": 1016,
-											"width": 120,
+											"width": 117,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -94612,7 +94612,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "29 : Souscrire option",
+											"text": "29 : souscrireOption",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -94767,9 +94767,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 419,
+											"left": 422,
 											"top": 1064,
-											"width": 108,
+											"width": 102,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -94779,7 +94779,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "30 : Résilier option",
+											"text": "30 : resilierOption",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -94934,9 +94934,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 371,
+											"left": 383,
 											"top": 1112,
-											"width": 204,
+											"width": 180,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707953267948966,
@@ -94946,7 +94946,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "31 : Choisir périodicité du paiement",
+											"text": "31 : choisirPeriodicitePaiement",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -95101,9 +95101,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 346,
+											"left": 344,
 											"top": 1199,
-											"width": 258,
+											"width": 262,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.390941947002559,
@@ -95113,7 +95113,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "32 : Valider modification souscription contrat",
+											"text": "32 : validationModifitationSouscriptionContrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -95280,7 +95280,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "33 : SM4.7 : ModifierSouscriptionContrat(idSouscriptionContrat, periodicite, liste <Option>) : SouscriptionContrat, liste<Option>, liste<OptionSouscrite>, Agent, Contrat",
+											"text": "33 : SM4.7 : modifierSouscriptionContrat(idSouscriptionContrat, periodicite, liste <Option>) : SouscriptionContrat, liste<Option>, liste<OptionSouscrite>, Agent, Contrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -95447,7 +95447,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "34 : SOM4.10 : ModifierContrat(idSouscriptionContrat, periodicite, liste <Option>) : SouscriptionContrat",
+											"text": "34 : SOM4.10 : modifierContrat(idSouscriptionContrat, periodicite, liste <Option>) : SouscriptionContrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -95602,9 +95602,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 2097,
+											"left": 2098,
 											"top": 1280,
-											"width": 376,
+											"width": 375,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -95614,7 +95614,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "35 : SOM4.4 : RechercheContrat(idSouscriptionContrat) : Contrat",
+											"text": "35 : SOM4.4 : rechercherContrat(idSouscriptionContrat) : Contrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -95771,7 +95771,7 @@
 											"containerExtending": false,
 											"left": 2045,
 											"top": 1328,
-											"width": 481,
+											"width": 480,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -95781,7 +95781,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "36 : SOM4.6 : RechercheOptionsSouscrites(idSouscriptionContrat) : liste <Option>",
+											"text": "36 : SOM4.6 : rechercherOptionsSouscrites(idSouscriptionContrat) : liste <Option>",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -95938,7 +95938,7 @@
 											"containerExtending": false,
 											"left": 2112,
 											"top": 1360,
-											"width": 347,
+											"width": 346,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -95948,7 +95948,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "37 : SOM4.7 : RechercheOptions(idContrat) : liste<Contrat>",
+											"text": "37 : SOM4.7 : rechercherOptions(idContrat) : liste<Contrat>",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -96103,9 +96103,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 2328,
+											"left": 2329,
 											"top": 1399,
-											"width": 280,
+											"width": 279,
 											"height": 13,
 											"autoResize": false,
 											"alpha": -4.4209331033382675,
@@ -96115,7 +96115,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "38 : SOM4.8 : RechercheAgent(idAgent) : Agent",
+											"text": "38 : SOM4.8 : rechercherAgent(idAgent) : Agent",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -96272,7 +96272,7 @@
 											"containerExtending": false,
 											"left": 2116,
 											"top": 1432,
-											"width": 339,
+											"width": 338,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -96282,7 +96282,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "39 : SOM4.9: RechercheOptions(idContrat) : liste<Option>",
+											"text": "39 : SOM4.9: rechercherOptions(idContrat) : liste<Option>",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -96437,9 +96437,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 380,
+											"left": 384,
 											"top": 1576,
-											"width": 187,
+											"width": 178,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -96449,7 +96449,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "40 : Résilier souscription contrat",
+											"text": "40 : resilierSouscriptionContrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -96604,9 +96604,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 866,
+											"left": 869,
 											"top": 1584,
-											"width": 814,
+											"width": 809,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -96616,7 +96616,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "41 : SM4.8 : ResilierSouscriptionContrat(idSouscriptionContrat) :  SouscriptionContrat, liste<Option>, liste<OptionSouscrite>, Agent, Contrat",
+											"text": "41 : SM4.8 : resilierSouscriptionContrat(idSouscriptionContrat) :  SouscriptionContrat, liste<Option>, liste<OptionSouscrite>, Agent, Contrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -96771,9 +96771,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 2035,
+											"left": 2037,
 											"top": 1600,
-											"width": 501,
+											"width": 496,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -96783,7 +96783,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "42 : SOM4.7 : ResilierSouscriptionContrat(idSouscriptionContrat) : SouscriptionContrat",
+											"text": "42 : SOM4.7 : resilierSouscriptionContrat(idSouscriptionContrat) : SouscriptionContrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -96938,9 +96938,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 2097,
+											"left": 2098,
 											"top": 1642,
-											"width": 376,
+											"width": 375,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -96950,7 +96950,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "43 : SOM4.4 : RechercheContrat(idSouscriptionContrat) : Contrat",
+											"text": "43 : SOM4.4 : rechercherContrat(idSouscriptionContrat) : Contrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -97107,7 +97107,7 @@
 											"containerExtending": false,
 											"left": 2045,
 											"top": 1685,
-											"width": 481,
+											"width": 480,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -97117,7 +97117,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "44 : SOM4.6 : RechercheOptionsSouscrites(idSouscriptionContrat) : liste <Option>",
+											"text": "44 : SOM4.6 : rechercherOptionsSouscrites(idSouscriptionContrat) : liste <Option>",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -97274,7 +97274,7 @@
 											"containerExtending": false,
 											"left": 2112,
 											"top": 1727,
-											"width": 347,
+											"width": 346,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -97284,7 +97284,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "45 : SOM4.7 : RechercheOptions(idContrat) : liste<Contrat>",
+											"text": "45 : SOM4.7 : rechercherOptions(idContrat) : liste<Contrat>",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -97439,9 +97439,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 2331,
+											"left": 2332,
 											"top": 1768,
-											"width": 280,
+											"width": 279,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -97451,7 +97451,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "46 : SOM4.8 : RechercheAgent(idAgent) : Agent",
+											"text": "46 : SOM4.8 : rechercherAgent(idAgent) : Agent",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -97608,7 +97608,7 @@
 											"containerExtending": false,
 											"left": 2116,
 											"top": 1800,
-											"width": 339,
+											"width": 338,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -97618,7 +97618,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "47 : SOM4.9: RechercheOptions(idContrat) : liste<Option>",
+											"text": "47 : SOM4.9: rechercherOptions(idContrat) : liste<Option>",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -97760,7 +97760,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "Consulter la fenêtre de visualisation des souscriptions de contrat",
+							"name": "consulterFenetreVisualisationSouscriptionsContrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPYQaM="
 							},
@@ -97777,7 +97777,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SM4.1 : RechercheClient(idClient) : Client",
+							"name": "SM4.1 : rechercherClient(idClient) : Client",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPZLXc="
 							},
@@ -97794,7 +97794,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.1 : RechercheClient(idClient) : Client",
+							"name": "SOM4.1 : rechercherClient(idClient) : Client",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -97811,7 +97811,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SM4.2 : RechercheDomaines() : liste<Domaine>",
+							"name": "SM4.2 : rechercherDomaines() : liste<Domaine>",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPZLXc="
 							},
@@ -97828,7 +97828,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.2 : RechercheDomaine() : liste<Domaine>",
+							"name": "SOM4.2 : rechercherDomaine() : liste<Domaine>",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -97845,7 +97845,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "Consulter un domaine",
+							"name": "consulterDomaine",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPYQaM="
 							},
@@ -97862,7 +97862,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SM4.3 : RechercheSouscriptionContrat(idClient, idDomaine) : liste <SouscriptionContrat, Contrat>",
+							"name": "SM4.3 : rechercherSouscriptionContrat(idClient, idDomaine) : liste <SouscriptionContrat, Contrat>",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPZLXc="
 							},
@@ -97879,7 +97879,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.3: RechercheSouscriptionContrat(idClient, idDomaine) : liste<SouscriptionContrat, Contrat>",
+							"name": "SOM4.3: rechercherSouscriptionContrat(idClient, idDomaine) : liste<SouscriptionContrat, Contrat>",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -97896,7 +97896,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "Consulter  une souscription contrat",
+							"name": "consulterSouscriptionContrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPYQaM="
 							},
@@ -97913,7 +97913,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SM4.4 : ConsulterSouscriptionContrat(idSouscriptionContrat) : Contrat, SouscriptionContrat, Agent, liste<Option>, liste<OptionSouscrite>",
+							"name": "SM4.4 : consulterSouscriptionContrat(idSouscriptionContrat) : Contrat, SouscriptionContrat, Agent, liste<Option>, liste<OptionSouscrite>",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPZLXc="
 							},
@@ -97930,7 +97930,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.4 : RechercheContrat(idSouscriptionContrat) : Contrat",
+							"name": "SOM4.4 : rechercherContrat(idSouscriptionContrat) : Contrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -97947,7 +97947,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.5 : RechercheSouscriptionContrat(idSouscriptionContrat) : SouscriptionContrat",
+							"name": "SOM4.5 : rechercherSouscriptionContrat(idSouscriptionContrat) : SouscriptionContrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -97964,7 +97964,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.6 : RechercheOptionsSouscrites(idSouscriptionContrat) : liste <Option>",
+							"name": "SOM4.6 : rechercherOptionsSouscrites(idSouscriptionContrat) : liste <Option>",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -97981,7 +97981,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.7 : RechercheOptions(idContrat) : liste<Contrat>",
+							"name": "SOM4.7 : rechercherOptions(idContrat) : liste<Contrat>",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -97998,7 +97998,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.8 : RechercheAgent(idAgent) : Agent",
+							"name": "SOM4.8 : rechercherAgent(idAgent) : Agent",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -98015,7 +98015,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.9: RechercheOptions(idContrat) : liste<Option>",
+							"name": "SOM4.9: rechercherOptions(idContrat) : liste<Option>",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -98032,7 +98032,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "Faire une nouvelle souscription de contrat",
+							"name": "nouvelleSouscriptionContrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPYQaM="
 							},
@@ -98049,7 +98049,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SM4.5 : RechercheContrats(idDomaine) : liste<Contrat, liste<Options>>",
+							"name": "SM4.5 : rechercherContrats(idDomaine) : liste<Contrat, liste<Options>>",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPZLXc="
 							},
@@ -98066,7 +98066,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.10 : RechercheContrats(idDomaine) : liste<Contrat, liste<Options>>",
+							"name": "SOM4.10 : rechercherContrats(idDomaine) : liste<Contrat, liste<Options>>",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -98083,7 +98083,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "Valider nouvelle souscription d'un contrat",
+							"name": "validationNouvelleSouscriptionContrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPYQaM="
 							},
@@ -98100,7 +98100,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SM4.6 : SouscriptionContrat(idClient,  idContrat,  idAgent, dateSouscription, periodicite, liste<Option>) : SouscriptionContrat, Agent, liste<Option>, liste<OptionSouscrite>, Contrat",
+							"name": "SM4.6 : souscriptionContrat(idClient,  idContrat,  idAgent, dateSouscription, periodicite, liste<Option>) : SouscriptionContrat, Agent, liste<Option>, liste<OptionSouscrite>, Contrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPZLXc="
 							},
@@ -98117,7 +98117,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.11 : SouscriptionContrat(idClient,  idContrat,  idAgent, dateSouscription, periodicite, liste<Option>) : SouscriptionContrat",
+							"name": "SOM4.11 : souscriptionContrat(idClient,  idContrat,  idAgent, dateSouscription, periodicite, liste<Option>) : SouscriptionContrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -98134,7 +98134,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.4 : RechercheContrat(idSouscriptionContrat) : Contrat",
+							"name": "SOM4.4 : rechercherContrat(idSouscriptionContrat) : Contrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -98151,7 +98151,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.6 : RechercheOptionsSouscrites(idSouscriptionContrat) : liste <Option>",
+							"name": "SOM4.6 : rechercherOptionsSouscrites(idSouscriptionContrat) : liste <Option>",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -98168,7 +98168,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.7 : RechercheOptions(idContrat) : liste<Contrat>",
+							"name": "SOM4.7 : rechercherOptions(idContrat) : liste<Contrat>",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -98185,7 +98185,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.8 : RechercheAgent(idAgent) : Agent",
+							"name": "SOM4.8 : rechercherAgent(idAgent) : Agent",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -98202,7 +98202,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.9: RechercheOptions(idContrat) : liste<Option>",
+							"name": "SOM4.9: rechercherOptions(idContrat) : liste<Option>",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -98219,7 +98219,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "Modifier Souscription Contrat",
+							"name": "modifierSouscriptionContrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPYQaM="
 							},
@@ -98236,7 +98236,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "Souscrire option",
+							"name": "souscrireOption",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPYQaM="
 							},
@@ -98253,7 +98253,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "Résilier option",
+							"name": "resilierOption",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPYQaM="
 							},
@@ -98270,7 +98270,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "Choisir périodicité du paiement",
+							"name": "choisirPeriodicitePaiement",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPYQaM="
 							},
@@ -98287,7 +98287,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "Valider modification souscription contrat",
+							"name": "validationModifitationSouscriptionContrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPYQaM="
 							},
@@ -98304,7 +98304,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SM4.7 : ModifierSouscriptionContrat(idSouscriptionContrat, periodicite, liste <Option>) : SouscriptionContrat, liste<Option>, liste<OptionSouscrite>, Agent, Contrat",
+							"name": "SM4.7 : modifierSouscriptionContrat(idSouscriptionContrat, periodicite, liste <Option>) : SouscriptionContrat, liste<Option>, liste<OptionSouscrite>, Agent, Contrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPZLXc="
 							},
@@ -98321,7 +98321,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.10 : ModifierContrat(idSouscriptionContrat, periodicite, liste <Option>) : SouscriptionContrat",
+							"name": "SOM4.10 : modifierContrat(idSouscriptionContrat, periodicite, liste <Option>) : SouscriptionContrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -98338,7 +98338,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.4 : RechercheContrat(idSouscriptionContrat) : Contrat",
+							"name": "SOM4.4 : rechercherContrat(idSouscriptionContrat) : Contrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -98355,7 +98355,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.6 : RechercheOptionsSouscrites(idSouscriptionContrat) : liste <Option>",
+							"name": "SOM4.6 : rechercherOptionsSouscrites(idSouscriptionContrat) : liste <Option>",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -98372,7 +98372,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.7 : RechercheOptions(idContrat) : liste<Contrat>",
+							"name": "SOM4.7 : rechercherOptions(idContrat) : liste<Contrat>",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -98389,7 +98389,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.8 : RechercheAgent(idAgent) : Agent",
+							"name": "SOM4.8 : rechercherAgent(idAgent) : Agent",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -98406,7 +98406,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.9: RechercheOptions(idContrat) : liste<Option>",
+							"name": "SOM4.9: rechercherOptions(idContrat) : liste<Option>",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -98423,7 +98423,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "Résilier souscription contrat",
+							"name": "resilierSouscriptionContrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPYQaM="
 							},
@@ -98440,7 +98440,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SM4.8 : ResilierSouscriptionContrat(idSouscriptionContrat) :  SouscriptionContrat, liste<Option>, liste<OptionSouscrite>, Agent, Contrat",
+							"name": "SM4.8 : resilierSouscriptionContrat(idSouscriptionContrat) :  SouscriptionContrat, liste<Option>, liste<OptionSouscrite>, Agent, Contrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPZLXc="
 							},
@@ -98457,7 +98457,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.7 : ResilierSouscriptionContrat(idSouscriptionContrat) : SouscriptionContrat",
+							"name": "SOM4.7 : resilierSouscriptionContrat(idSouscriptionContrat) : SouscriptionContrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -98474,7 +98474,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.4 : RechercheContrat(idSouscriptionContrat) : Contrat",
+							"name": "SOM4.4 : rechercherContrat(idSouscriptionContrat) : Contrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -98491,7 +98491,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.6 : RechercheOptionsSouscrites(idSouscriptionContrat) : liste <Option>",
+							"name": "SOM4.6 : rechercherOptionsSouscrites(idSouscriptionContrat) : liste <Option>",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -98508,7 +98508,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.7 : RechercheOptions(idContrat) : liste<Contrat>",
+							"name": "SOM4.7 : rechercherOptions(idContrat) : liste<Contrat>",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -98525,7 +98525,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.8 : RechercheAgent(idAgent) : Agent",
+							"name": "SOM4.8 : rechercherAgent(idAgent) : Agent",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -98542,7 +98542,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVtFPeA7M="
 							},
-							"name": "SOM4.9: RechercheOptions(idContrat) : liste<Option>",
+							"name": "SOM4.9: rechercherOptions(idContrat) : liste<Option>",
 							"source": {
 								"$ref": "AAAAAAFYIEBVtFPaTWQ="
 							},
@@ -99357,9 +99357,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 276,
+											"left": 318,
 											"top": 88,
-											"width": 394,
+											"width": 311,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -99369,7 +99369,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "1 : Consulter la fenêtre de visualisation des souscriptions de contrat",
+											"text": "1 : consulterFenetreVisualisationSouscriptionsContrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -99524,9 +99524,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 1139,
+											"left": 1140,
 											"top": 96,
-											"width": 260,
+											"width": 259,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -99536,7 +99536,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "2 : SM4.1 : RechercheClient(idClient) : Client",
+											"text": "2 : SM4.1 : rechercherClient(idClient) : Client",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -99691,9 +99691,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 1119,
+											"left": 1120,
 											"top": 144,
-											"width": 300,
+											"width": 299,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -99703,7 +99703,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "3 : SM4.2 : RechercheDomaines() : liste<Domaine>",
+											"text": "3 : SM4.2 : rechercherDomaines() : liste<Domaine>",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -99858,9 +99858,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 405,
+											"left": 416,
 											"top": 192,
-											"width": 145,
+											"width": 123,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.1902890876138634,
@@ -99870,7 +99870,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "4 : Consulter un domaine",
+											"text": "4 : consulterDomaine",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -100027,7 +100027,7 @@
 											"containerExtending": false,
 											"left": 977,
 											"top": 216,
-											"width": 585,
+											"width": 584,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -100037,7 +100037,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "5 : SM4.3 : RechercheSouscriptionContrat(idClient, idDomaine) : liste <SouscriptionContrat, Contrat>",
+											"text": "5 : SM4.3 : rechercherSouscriptionContrat(idClient, idDomaine) : liste <SouscriptionContrat, Contrat>",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -100192,9 +100192,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 363,
+											"left": 380,
 											"top": 304,
-											"width": 221,
+											"width": 186,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -100204,7 +100204,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "6 : Consulter  une souscription contrat",
+											"text": "6 : consulterSouscriptionContrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -100359,9 +100359,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 862,
+											"left": 863,
 											"top": 328,
-											"width": 815,
+											"width": 813,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -100371,7 +100371,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "7 : SM4.4 : ConsulterSouscriptionContrat(idSouscriptionContrat) : Contrat, SouscriptionContrat, Agent, liste<Option>, liste<OptionSouscrite>",
+											"text": "7 : SM4.4 : consulterSouscriptionContrat(idSouscriptionContrat) : Contrat, SouscriptionContrat, Agent, liste<Option>, liste<OptionSouscrite>",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -100526,9 +100526,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 343,
+											"left": 383,
 											"top": 376,
-											"width": 261,
+											"width": 181,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -100538,7 +100538,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "8 : Faire une nouvelle souscription de contrat",
+											"text": "8 : nouvelleSouscriptionContrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -100693,9 +100693,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 1051,
+											"left": 1052,
 											"top": 384,
-											"width": 436,
+											"width": 435,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -100705,7 +100705,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "9 : SM4.5 : RechercheContrats(idDomaine) : liste<Contrat, liste<Options>>",
+											"text": "9 : SM4.5 : rechercherContrats(idDomaine) : liste<Contrat, liste<Options>>",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -100860,9 +100860,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 342,
+											"left": 351,
 											"top": 472,
-											"width": 263,
+											"width": 245,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -100872,7 +100872,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "10 : Valider nouvelle souscription d'un contrat",
+											"text": "10 : validationNouvelleSouscriptionContrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -101027,9 +101027,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 734,
+											"left": 735,
 											"top": 486,
-											"width": 1064,
+											"width": 1062,
 											"height": 13,
 											"autoResize": false,
 											"alpha": -4.446137777387806,
@@ -101039,7 +101039,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "11 : SM4.6 : SouscriptionContrat(idClient,  idContrat,  idAgent, dateSouscription, periodicite, liste<Option>) : SouscriptionContrat, Agent, liste<Option>, liste<OptionSouscrite>, Contrat",
+											"text": "11 : SM4.6 : souscriptionContrat(idClient,  idContrat,  idAgent, dateSouscription, periodicite, liste<Option>) : SouscriptionContrat, Agent, liste<Option>, liste<OptionSouscrite>, Contrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -101194,9 +101194,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 376,
+											"left": 368,
 											"top": 576,
-											"width": 194,
+											"width": 210,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -101206,7 +101206,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "12 : Modifier Souscription Contrat",
+											"text": "12 : modificationSouscriptionContrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -101361,9 +101361,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 413,
+											"left": 415,
 											"top": 624,
-											"width": 120,
+											"width": 117,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -101373,7 +101373,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "13 : Souscrire option",
+											"text": "13 : souscrireOption",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -101528,9 +101528,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 419,
+											"left": 422,
 											"top": 672,
-											"width": 108,
+											"width": 102,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -101540,7 +101540,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "14 : Résilier option",
+											"text": "14 : resilierOption",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -101695,9 +101695,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 371,
+											"left": 383,
 											"top": 728,
-											"width": 204,
+											"width": 180,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707953267948966,
@@ -101707,7 +101707,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "15 : Choisir périodicité du paiement",
+											"text": "15 : choisirPeriodicitePaiement",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -101862,9 +101862,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 346,
+											"left": 343,
 											"top": 783,
-											"width": 258,
+											"width": 265,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.390941947002559,
@@ -101874,7 +101874,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "16 : Valider modification souscription contrat",
+											"text": "16 : validationModificationSouscriptionContrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -102041,7 +102041,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "17 : SM4.7 : ModifierSouscriptionContrat(idSouscriptionContrat, periodicite, liste <Option>) : SouscriptionContrat, liste<Option>, liste<OptionSouscrite>, Agent, Contrat",
+											"text": "17 : SM4.7 : modifierSouscriptionContrat(idSouscriptionContrat, periodicite, liste <Option>) : SouscriptionContrat, liste<Option>, liste<OptionSouscrite>, Agent, Contrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -102196,9 +102196,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 380,
+											"left": 384,
 											"top": 888,
-											"width": 187,
+											"width": 178,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -102208,7 +102208,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "18 : Résilier souscription contrat",
+											"text": "18 : resilierSouscriptionContrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -102363,9 +102363,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 862,
+											"left": 865,
 											"top": 904,
-											"width": 814,
+											"width": 809,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
@@ -102375,7 +102375,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "19 : SM4.8 : ResilierSouscriptionContrat(idSouscriptionContrat) :  SouscriptionContrat, liste<Option>, liste<OptionSouscrite>, Agent, Contrat",
+											"text": "19 : SM4.8 : resilierSouscriptionContrat(idSouscriptionContrat) :  SouscriptionContrat, liste<Option>, liste<OptionSouscrite>, Agent, Contrat",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -102517,7 +102517,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVu1RtQss="
 							},
-							"name": "Consulter la fenêtre de visualisation des souscriptions de contrat",
+							"name": "consulterFenetreVisualisationSouscriptionsContrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVulRqNT4="
 							},
@@ -102534,7 +102534,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVu1RtQss="
 							},
-							"name": "SM4.1 : RechercheClient(idClient) : Client",
+							"name": "SM4.1 : rechercherClient(idClient) : Client",
 							"source": {
 								"$ref": "AAAAAAFYIEBVulRrpMM="
 							},
@@ -102551,7 +102551,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVu1RtQss="
 							},
-							"name": "SM4.2 : RechercheDomaines() : liste<Domaine>",
+							"name": "SM4.2 : rechercherDomaines() : liste<Domaine>",
 							"source": {
 								"$ref": "AAAAAAFYIEBVulRrpMM="
 							},
@@ -102568,7 +102568,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVu1RtQss="
 							},
-							"name": "Consulter un domaine",
+							"name": "consulterDomaine",
 							"source": {
 								"$ref": "AAAAAAFYIEBVulRqNT4="
 							},
@@ -102585,7 +102585,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVu1RtQss="
 							},
-							"name": "SM4.3 : RechercheSouscriptionContrat(idClient, idDomaine) : liste <SouscriptionContrat, Contrat>",
+							"name": "SM4.3 : rechercherSouscriptionContrat(idClient, idDomaine) : liste <SouscriptionContrat, Contrat>",
 							"source": {
 								"$ref": "AAAAAAFYIEBVulRrpMM="
 							},
@@ -102602,7 +102602,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVu1RtQss="
 							},
-							"name": "Consulter  une souscription contrat",
+							"name": "consulterSouscriptionContrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVulRqNT4="
 							},
@@ -102619,7 +102619,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVu1RtQss="
 							},
-							"name": "SM4.4 : ConsulterSouscriptionContrat(idSouscriptionContrat) : Contrat, SouscriptionContrat, Agent, liste<Option>, liste<OptionSouscrite>",
+							"name": "SM4.4 : consulterSouscriptionContrat(idSouscriptionContrat) : Contrat, SouscriptionContrat, Agent, liste<Option>, liste<OptionSouscrite>",
 							"source": {
 								"$ref": "AAAAAAFYIEBVulRrpMM="
 							},
@@ -102636,7 +102636,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVu1RtQss="
 							},
-							"name": "Faire une nouvelle souscription de contrat",
+							"name": "nouvelleSouscriptionContrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVulRqNT4="
 							},
@@ -102653,7 +102653,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVu1RtQss="
 							},
-							"name": "SM4.5 : RechercheContrats(idDomaine) : liste<Contrat, liste<Options>>",
+							"name": "SM4.5 : rechercherContrats(idDomaine) : liste<Contrat, liste<Options>>",
 							"source": {
 								"$ref": "AAAAAAFYIEBVulRrpMM="
 							},
@@ -102670,7 +102670,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVu1RtQss="
 							},
-							"name": "Valider nouvelle souscription d'un contrat",
+							"name": "validationNouvelleSouscriptionContrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVulRqNT4="
 							},
@@ -102687,7 +102687,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVu1RtQss="
 							},
-							"name": "SM4.6 : SouscriptionContrat(idClient,  idContrat,  idAgent, dateSouscription, periodicite, liste<Option>) : SouscriptionContrat, Agent, liste<Option>, liste<OptionSouscrite>, Contrat",
+							"name": "SM4.6 : souscriptionContrat(idClient,  idContrat,  idAgent, dateSouscription, periodicite, liste<Option>) : SouscriptionContrat, Agent, liste<Option>, liste<OptionSouscrite>, Contrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVulRrpMM="
 							},
@@ -102704,7 +102704,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVu1RtQss="
 							},
-							"name": "Modifier Souscription Contrat",
+							"name": "modificationSouscriptionContrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVulRqNT4="
 							},
@@ -102721,7 +102721,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVu1RtQss="
 							},
-							"name": "Souscrire option",
+							"name": "souscrireOption",
 							"source": {
 								"$ref": "AAAAAAFYIEBVulRqNT4="
 							},
@@ -102738,7 +102738,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVu1RtQss="
 							},
-							"name": "Résilier option",
+							"name": "resilierOption",
 							"source": {
 								"$ref": "AAAAAAFYIEBVulRqNT4="
 							},
@@ -102755,7 +102755,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVu1RtQss="
 							},
-							"name": "Choisir périodicité du paiement",
+							"name": "choisirPeriodicitePaiement",
 							"source": {
 								"$ref": "AAAAAAFYIEBVulRqNT4="
 							},
@@ -102772,7 +102772,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVu1RtQss="
 							},
-							"name": "Valider modification souscription contrat",
+							"name": "validationModificationSouscriptionContrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVulRqNT4="
 							},
@@ -102789,7 +102789,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVu1RtQss="
 							},
-							"name": "SM4.7 : ModifierSouscriptionContrat(idSouscriptionContrat, periodicite, liste <Option>) : SouscriptionContrat, liste<Option>, liste<OptionSouscrite>, Agent, Contrat",
+							"name": "SM4.7 : modifierSouscriptionContrat(idSouscriptionContrat, periodicite, liste <Option>) : SouscriptionContrat, liste<Option>, liste<OptionSouscrite>, Agent, Contrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVulRrpMM="
 							},
@@ -102806,7 +102806,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVu1RtQss="
 							},
-							"name": "Résilier souscription contrat",
+							"name": "resilierSouscriptionContrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVulRqNT4="
 							},
@@ -102823,7 +102823,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFYIEBVu1RtQss="
 							},
-							"name": "SM4.8 : ResilierSouscriptionContrat(idSouscriptionContrat) :  SouscriptionContrat, liste<Option>, liste<OptionSouscrite>, Agent, Contrat",
+							"name": "SM4.8 : resilierSouscriptionContrat(idSouscriptionContrat) :  SouscriptionContrat, liste<Option>, liste<OptionSouscrite>, Agent, Contrat",
 							"source": {
 								"$ref": "AAAAAAFYIEBVulRrpMM="
 							},
