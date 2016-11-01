@@ -115165,9 +115165,9 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 100,
+													"left": 106,
 													"top": 136,
-													"width": 129,
+													"width": 116,
 													"height": 13,
 													"autoResize": false,
 													"alpha": 1.5707963267948966,
@@ -115177,7 +115177,7 @@
 													},
 													"edgePosition": 1,
 													"underline": false,
-													"text": "1 : Consulter vue 360°",
+													"text": "1 : consulterVue360",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -115332,9 +115332,9 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 348,
+													"left": 349,
 													"top": 144,
-													"width": 287,
+													"width": 285,
 													"height": 13,
 													"autoResize": false,
 													"alpha": 1.5707963267948966,
@@ -115344,7 +115344,7 @@
 													},
 													"edgePosition": 1,
 													"underline": false,
-													"text": "2 : SM1.1 ConsulterEnTeteClient(idClient) : Client",
+													"text": "2 : SM1.1 consulterEnTeteClient(idClient) : Client",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -115666,9 +115666,9 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 272,
+													"left": 273,
 													"top": 209,
-													"width": 439,
+													"width": 437,
 													"height": 13,
 													"autoResize": false,
 													"alpha": 1.5707963267948966,
@@ -115678,7 +115678,7 @@
 													},
 													"edgePosition": 1,
 													"underline": false,
-													"text": "4 : SM1.2 ConsulterEnTeteGestionClient(idClient) : Client, liste <Personne>",
+													"text": "4 : SM1.2 consulterEnTeteGestionClient(idClient) : Client, liste <Personne>",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -116331,9 +116331,9 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 264,
+													"left": 265,
 													"top": 439,
-													"width": 445,
+													"width": 443,
 													"height": 13,
 													"autoResize": false,
 													"alpha": -4.5224010633647165,
@@ -116343,7 +116343,7 @@
 													},
 													"edgePosition": 1,
 													"underline": false,
-													"text": "7 : SM1.3 ConsulterEnTeteGestionContact(idClient) : Client,  liste <Contact>",
+													"text": "7 : SM1.3 consulterEnTeteGestionContact(idClient) : Client,  liste <Contact>",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -116665,9 +116665,9 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 338,
+													"left": 339,
 													"top": 655,
-													"width": 304,
+													"width": 302,
 													"height": 13,
 													"autoResize": false,
 													"alpha": -4.612721317992635,
@@ -116677,7 +116677,7 @@
 													},
 													"edgePosition": 1,
 													"underline": false,
-													"text": "9 : SM1.4 ConsulterEnTeteGestionContrat(idClient) :",
+													"text": "9 : SM1.4 consulterEnTeteGestionContrat(idClient) :",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -116832,9 +116832,9 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 1043,
+													"left": 1045,
 													"top": 680,
-													"width": 321,
+													"width": 316,
 													"height": 13,
 													"autoResize": false,
 													"alpha": 1.5707963267948966,
@@ -116844,7 +116844,7 @@
 													},
 													"edgePosition": 1,
 													"underline": false,
-													"text": "10 : SOM1.5 - RechercherDomaines() : liste<Domaine>",
+													"text": "10 : SOM1.5 - rechercherDomaines() : liste<Domaine>",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -117011,7 +117011,7 @@
 													},
 													"edgePosition": 1,
 													"underline": false,
-													"text": "11 : SOM1.5 - rechercherSouscriptionsContrat(idDomaine, IdClient) : liste<SouscriptionContrat, Contrat>",
+													"text": "11 : SOM1.6 - rechercherSouscriptionsContrat(idDomaine, IdClient) : liste<SouscriptionContrat, Contrat>",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -117330,9 +117330,9 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 81,
+													"left": 85,
 													"top": 1008,
-													"width": 174,
+													"width": 167,
 													"height": 13,
 													"autoResize": false,
 													"alpha": 1.3521268515092522,
@@ -117342,7 +117342,7 @@
 													},
 													"edgePosition": 1,
 													"underline": false,
-													"text": "12 : Zoomer vue Entête Client",
+													"text": "12 : zoomerVueEnTeteClient",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -117497,9 +117497,9 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 72,
+													"left": 79,
 													"top": 1088,
-													"width": 185,
+													"width": 170,
 													"height": 13,
 													"autoResize": false,
 													"alpha": 1.5707963267948966,
@@ -117509,7 +117509,7 @@
 													},
 													"edgePosition": 1,
 													"underline": false,
-													"text": "13 : Zoomer vue Gestion Client ",
+													"text": "13 : zoomerVueGestionClient",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -117664,9 +117664,9 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 69,
+													"left": 73,
 													"top": 1176,
-													"width": 190,
+													"width": 182,
 													"height": 13,
 													"autoResize": false,
 													"alpha": 1.5707963267948966,
@@ -117676,7 +117676,7 @@
 													},
 													"edgePosition": 1,
 													"underline": false,
-													"text": "14 : Zoomer vue gestion Contact",
+													"text": "14 : zoomerVueGestionContact",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -117854,9 +117854,9 @@
 													"showShadow": true,
 													"containerChangeable": false,
 													"containerExtending": false,
-													"left": 71,
+													"left": 77,
 													"top": 1280,
-													"width": 191,
+													"width": 179,
 													"height": 13,
 													"autoResize": false,
 													"alpha": 1.4601385568405467,
@@ -117866,7 +117866,7 @@
 													},
 													"edgePosition": 1,
 													"underline": false,
-													"text": "15 : Zommer vue gestion Contrat",
+													"text": "15 : zoomerVueGestionContrat",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -118008,7 +118008,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFYIEUSWNPzpkQ="
 									},
-									"name": "Consulter vue 360°",
+									"name": "consulterVue360",
 									"source": {
 										"$ref": "AAAAAAFYIEUSWNPeV6M="
 									},
@@ -118025,7 +118025,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFYIEUSWNPzpkQ="
 									},
-									"name": "SM1.1 ConsulterEnTeteClient(idClient) : Client",
+									"name": "SM1.1 consulterEnTeteClient(idClient) : Client",
 									"source": {
 										"$ref": "AAAAAAFYIEUSWNPfcrA="
 									},
@@ -118059,7 +118059,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFYIEUSWNPzpkQ="
 									},
-									"name": "SM1.2 ConsulterEnTeteGestionClient(idClient) : Client, liste <Personne>",
+									"name": "SM1.2 consulterEnTeteGestionClient(idClient) : Client, liste <Personne>",
 									"source": {
 										"$ref": "AAAAAAFYIEUSWNPfcrA="
 									},
@@ -118110,7 +118110,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFYIEUSWNPzpkQ="
 									},
-									"name": "SM1.3 ConsulterEnTeteGestionContact(idClient) : Client,  liste <Contact>",
+									"name": "SM1.3 consulterEnTeteGestionContact(idClient) : Client,  liste <Contact>",
 									"source": {
 										"$ref": "AAAAAAFYIEUSWNPfcrA="
 									},
@@ -118144,7 +118144,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFYIEUSWNPzpkQ="
 									},
-									"name": "SM1.4 ConsulterEnTeteGestionContrat(idClient) :",
+									"name": "SM1.4 consulterEnTeteGestionContrat(idClient) :",
 									"source": {
 										"$ref": "AAAAAAFYIEUSWNPfcrA="
 									},
@@ -118161,7 +118161,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFYIEUSWNPzpkQ="
 									},
-									"name": "SOM1.5 - RechercherDomaines() : liste<Domaine>",
+									"name": "SOM1.5 - rechercherDomaines() : liste<Domaine>",
 									"source": {
 										"$ref": "AAAAAAFYIEUSWNPgXR8="
 									},
@@ -118178,7 +118178,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFYIEUSWNPzpkQ="
 									},
-									"name": "SOM1.5 - rechercherSouscriptionsContrat(idDomaine, IdClient) : liste<SouscriptionContrat, Contrat>",
+									"name": "SOM1.6 - rechercherSouscriptionsContrat(idDomaine, IdClient) : liste<SouscriptionContrat, Contrat>",
 									"source": {
 										"$ref": "AAAAAAFYIEUSWNPgXR8="
 									},
@@ -118195,7 +118195,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFYIEUSWNPzpkQ="
 									},
-									"name": "Zoomer vue Entête Client",
+									"name": "zoomerVueEnTeteClient",
 									"source": {
 										"$ref": "AAAAAAFYIEUSWNPeV6M="
 									},
@@ -118212,7 +118212,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFYIEUSWNPzpkQ="
 									},
-									"name": "Zoomer vue Gestion Client ",
+									"name": "zoomerVueGestionClient",
 									"source": {
 										"$ref": "AAAAAAFYIEUSWNPeV6M="
 									},
@@ -118229,7 +118229,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFYIEUSWNPzpkQ="
 									},
-									"name": "Zoomer vue gestion Contact",
+									"name": "zoomerVueGestionContact",
 									"source": {
 										"$ref": "AAAAAAFYIEUSWNPeV6M="
 									},
@@ -118246,7 +118246,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFYIEUSWNPzpkQ="
 									},
-									"name": "Zommer vue gestion Contrat",
+									"name": "zoomerVueGestionContrat",
 									"source": {
 										"$ref": "AAAAAAFYIEUSWNPeV6M="
 									},
